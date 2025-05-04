@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/SydneyGift">
-        <img src="https://github.com/<github_username>.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #00b8d4;">
+        <img src="https://github.com/SydneyGift/SydneyGift/commits?author=SydneyGift.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #00b8d4;">
     </a>
     <h1 style="color: #ffffff; margin-top: 10px;">Your Name</h1>
     <h2 style="color: #b0bec5; font-weight: lighter;">Aspiring Cloud Security Engineer | ALX Back End Developer</h2>
