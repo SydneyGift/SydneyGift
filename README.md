@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://github.com/SydneyGift">
-        <img src="https://github.com/SydneyGift/SydneyGift/commits?author=SydneyGift.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #00b8d4;">
+        <img width="399" alt="Image" src="https://github.com/user-attachments/assets/04935bdd-7de4-48ae-a32d-bab11c91c5b3" />
     </a>
-    <h1 style="color: #ffffff; margin-top: 10px;">Your Name</h1>
+    <h1 style="color: #ffffff; margin-top: 10px;">Sydney Gift</h1>
     <h2 style="color: #b0bec5; font-weight: lighter;">Aspiring Cloud Security Engineer | ALX Back End Developer</h2>
     <a href="https://www.linkedin.com/in/sydney-gift?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA4UIJbE%2FR9GJOJiOZUhH1g%3D%3D" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
