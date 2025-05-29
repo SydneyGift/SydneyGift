@@ -101,8 +101,8 @@
     Here's my recent contribution activity:
 </p>
 <div style="color: #b0bec5;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SydneyGift&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=SydneyGift&theme=dark&show_icons=true" alt="GitHub Stats">
 </div>
 
 <hr style="border: 1px solid #30363d;">
