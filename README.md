@@ -81,7 +81,7 @@
     <p>
         Designed an enterprise network for a corporate office that had aroud 700 users ensuring the network has measures in place for fault tolerance and full redundancy in case of any emergencies.
     </p>
-    <a href="https://github.com/yourusername/project1" target="_blank">
+    <a href="https://github.com/yourusername/project1" target="https://github.com/user-attachments/files/20511092/Computer.Network.pdf">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt=[Computer Network.pdf](https://github.com/user-attachments/files/20511092/Computer.Network.pdf)>
     </a>
 
