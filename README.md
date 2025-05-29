@@ -77,12 +77,12 @@
     Here are some of the projects I've worked on:
 </p>
 <div style="color: #b0bec5;">
-    <h3 style="color: #ffffff;">Project Name 1</h3>
+    <h3 style="color: #ffffff;">Design a Fully Redundant Corporate Network</h3>
     <p>
-        A brief description of the project, highlighting your contributions and the technologies used.  For example: "Developed a secure REST API for user authentication and authorization using Python and Flask. Implemented JWT for secure token management and integrated with AWS Cognito for identity management."
+        Designed an enterprise network for a corporate office that had aroud 700 users ensuring the network has measures in place for fault tolerance and full redundancy in case of any emergencies.
     </p>
     <a href="https://github.com/yourusername/project1" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt="Project 1">
+        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" alt=[Computer Network.pdf](https://github.com/user-attachments/files/20511092/Computer.Network.pdf)>
     </a>
 
     <h3 style="color: #ffffff; margin-top: 20px;">Project Name 2</h3>
